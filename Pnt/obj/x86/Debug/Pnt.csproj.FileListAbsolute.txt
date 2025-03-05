@@ -1,0 +1,12 @@
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\bin\Debug\Simple Paint Program.exe
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\bin\Debug\Simple Paint Program.pdb
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\obj\x86\Debug\Pnt.Pnt.resources
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\obj\x86\Debug\Pnt.Properties.Resources.resources
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\obj\x86\Debug\Pnt.csproj.GenerateResource.cache
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\obj\x86\Debug\Pnt.csproj.CoreCompileInputs.cache
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\obj\x86\Debug\Simple Paint Program.exe
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\obj\x86\Debug\Simple Paint Program.pdb
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\bin\Debug\Simple Paint Program.exe.manifest
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\bin\Debug\Simple Paint Program.application
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\obj\x86\Debug\Simple Paint Program.exe.manifest
+D:\Projects\NET Projects\C#.NET\Paint\Pnt\obj\x86\Debug\Simple Paint Program.application
